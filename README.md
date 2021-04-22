@@ -26,11 +26,13 @@ Users should be able to:
 ### Screenshots
 
 Desktop
-![](./screenshot1.jpg)
+![](./images/screenshot-screenshot-desktop.png)
+
 Tablets
-![](./screenshot2.jpg)
+![](./images/screenshot2-tablet.png)
+
 Mobile
-![](./screenshot3.jpg)
+![](./images/screenshot3-mobile.png)
 
 ### Links
 
